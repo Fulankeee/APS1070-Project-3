@@ -1,4 +1,4 @@
-# APS1070 Project 3 - PCA
+# APS1070 Project 3 - PCA and SVD
 -	Use of Panda: pd.DataFrame; pd.read_csv; pd.merge
 -	Use of Numpy: np.dot; np.arange; np.linalg.eigh
 -	Use of matplotlib.pyplot: plt.plot; matplotlib.gridspec (bar and line plot); plt.Circle
